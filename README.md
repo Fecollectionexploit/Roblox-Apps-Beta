@@ -27,4 +27,4 @@ Below step are the step for others people who have both method 1,2 don't work
 
 Or if your drive later or path is different then all of thing you need to do is scroll to the last of target then find RobloxPlayerLauncher.exe -app
 
-Now replace Launcher with Beta To make it become RobloxPlayerBeta.exe next in -app add a new "-" then it will become --app after that click apply and your done
+Now replace Launcher with Beta To make it become RobloxPlayerBeta.exe next in -app add a new "-" then it will become "--app" after that click apply and your done
